@@ -103,6 +103,16 @@
       background: var(--Background---Secondary, #3B3B3B);
       color: #FFF;
       width: 320px;
+
+      color: var(--White, #FFF);
+
+      /* H5 - Work Sans */
+      font-family: "WorkSans-SemiBold600" ;
+      font-size: 22px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: 140%; /* 30.8px */
+      text-transform: capitalize;
       
       }
   
